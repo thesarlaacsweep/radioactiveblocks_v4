@@ -1,0 +1,46 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[32,)"
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="radioactiveblocks" #mandatory
+
+version="${file.jarVersion}" #mandatory
+
+displayName="Radioactive Blocks" #mandatory
+
+#updateJSONURL="http://myurl.me/" #optional
+
+#displayURL="http://example.com/" #optional
+
+logoFile="https://media.forgecdn.net/avatars/thumbnails/275/619/64/64/637262887391987635.png" #optional
+
+credits="Thanks to everyone playing this mod it's greatly appreciated." #optional
+
+authors="The SarlaacSweep" #optional
+
+description='''
+Radioactive Blocks adds many vanilla blocks to the game as light sources and creates some interesting side-effects as well.
+'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.examplemod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[32,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"
