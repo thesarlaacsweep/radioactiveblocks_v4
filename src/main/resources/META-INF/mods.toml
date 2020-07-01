@@ -12,7 +12,7 @@ version="${file.jarVersion}" #mandatory
 
 displayName="Radioactive Blocks" #mandatory
 
-#updateJSONURL="http://myurl.me/" #optional
+updateJSONURL="https://github.com/thesarlaacsweep/radioactiveblocks_updates/blob/master/updates.json" #optional
 
 #displayURL="http://example.com/" #optional
 
