@@ -3,6 +3,7 @@
   "rewards": {
     "recipes": [
       "radioactiveblocks:radioactive_quartz_pillar",
+      "radioactiveblocks:radioactive_quartz_brick_block",
       "radioactiveblocks:radioactive_quartz_slab",
       "radioactiveblocks:radioactive_quartz_stairs"
     ]

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "radioactiveblocks:radioactive_polished_blackstone_bricks"
+  },
+  "result": "radioactiveblocks:radioactive_cracked_polished_blackstone_bricks",
+  "experience": 1.2,
+  "cookingtime": 120
+}

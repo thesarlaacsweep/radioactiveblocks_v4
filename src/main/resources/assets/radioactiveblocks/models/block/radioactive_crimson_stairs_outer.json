@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+      "bottom": "radioactiveblocks:blocks/crimson_planks",
+      "top": "radioactiveblocks:blocks/crimson_planks",
+      "side": "radioactiveblocks:blocks/crimson_planks"
+  }
+}

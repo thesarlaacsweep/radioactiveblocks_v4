@@ -7,7 +7,9 @@
       "radioactiveblocks:radioactive_dark_oak_log",
       "radioactiveblocks:radioactive_jungle_log",
       "radioactiveblocks:radioactive_oak_log",
-      "radioactiveblocks:radioactive_spruce_log"
+      "radioactiveblocks:radioactive_spruce_log",
+      "radioactiveblocks:radioactive_crimson_stem",
+      "radioactiveblocks:radioactive_warped_stem"
     ]
   },
   "criteria": {

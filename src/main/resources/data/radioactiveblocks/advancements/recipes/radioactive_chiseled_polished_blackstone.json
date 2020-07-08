@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "radioactiveblocks:radioactive_chiseled_polished_blackstone"
+    ]
+  },
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "radioactiveblocks:radioactive_blackstone" }
+        ]
+      }
+    }
+  },
+  "requirements": [["has_items"]]
+}

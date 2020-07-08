@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "radioactive_stems",
+  "pattern": ["RRR", "RIR", "LLL"],
+  "key": {
+    "I": { "tag": "radioactiveblocks:ingots" },
+    "L": {
+      "item": "minecraft:warped_stems"
+    },
+    "R": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "radioactiveblocks:radioactive_warped_stem",
+    "count": 8
+  }
+}

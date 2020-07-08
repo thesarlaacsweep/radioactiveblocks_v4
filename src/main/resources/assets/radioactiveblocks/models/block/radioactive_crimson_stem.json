@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+      "end": "radioactiveblocks:blocks/crimson_stem_top",
+      "side": "radioactiveblocks:blocks/crimson_stem"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+      "axis=y":  { "model": "radioactiveblocks:block/radioactive_crimson_stem" },
+      "axis=z":   { "model": "radioactiveblocks:block/radioactive_crimson_stem", "x": 90 },
+      "axis=x":   { "model": "radioactiveblocks:block/radioactive_crimson_stem", "x": 90, "y": 90 }
+  }
+}

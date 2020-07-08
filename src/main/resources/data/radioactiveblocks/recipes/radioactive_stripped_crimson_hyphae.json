@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "radioactive_stripped_wood",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "radioactiveblocks:radioactive_stripped_crimson_stem"
+    }
+  },
+  "result": {
+    "item": "radioactiveblocks:radioactive_stripped_crimson_hyphae",
+    "count": 3
+  }
+}

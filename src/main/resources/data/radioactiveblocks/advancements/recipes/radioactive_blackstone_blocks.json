@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "radioactiveblocks:radioactive_polished_blackstone",
+      "radioactiveblocks:radioactive_polished_blackstone_bricks",
+      "radioactiveblocks:radioactive_cracked_polished_blackstone_bricks",
+      "radioactiveblocks:radioactive_chiseled_polished_blackstone",
+      "radioactiveblocks:radioactive_blackstone_slab",
+      "radioactiveblocks:radioactive_blackstone_stairs",
+      "radioactiveblocks:radioactive_polished_blackstone_slab",
+      "radioactiveblocks:radioactive_polished_blackstone_stairs",
+      "radioactiveblocks:radioactive_polished_blackstone_brick_slab",
+      "radioactiveblocks:radioactive_polished_blackstone_brick_stairs"
+    ]
+  },
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "radioactiveblocks:radioactive_blackstone" }
+        ]
+      }
+    }
+  },
+  "requirements": [["has_items"]]
+}

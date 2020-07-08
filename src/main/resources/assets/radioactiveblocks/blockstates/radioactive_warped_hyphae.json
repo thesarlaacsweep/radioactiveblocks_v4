@@ -1,0 +1,7 @@
+{
+  "variants": {
+      "axis=y":  { "model": "radioactiveblocks:block/radioactive_warped_hyphae" },
+      "axis=z":   { "model": "radioactiveblocks:block/radioactive_warped_hyphae", "x": 90 },
+      "axis=x":   { "model": "radioactiveblocks:block/radioactive_warped_hyphae", "x": 90, "y": 90 }
+  }
+}

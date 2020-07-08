@@ -1,18 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "group": "radioactive_stripped_wood",
-  "pattern": ["RRR", "RIR", "LLL"],
+  "pattern": [
+    "##",
+    "##"
+  ],
   "key": {
-    "I": { "tag": "radioactiveblocks:ingots" },
-    "L": {
-      "item": "minecraft:stripped_jungle_wood"
-    },
-    "R": {
-      "item": "minecraft:gravel"
+    "#": {
+      "item": "radioactiveblocks:radioactive_jungle_wood"
     }
   },
   "result": {
     "item": "radioactiveblocks:radioactive_stripped_jungle_wood",
-    "count": 8
+    "count": 3
   }
 }

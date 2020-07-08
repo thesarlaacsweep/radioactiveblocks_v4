@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "radioactiveblocks:radioactive_warped_planks",
+      "radioactiveblocks:radioactive_warped_hyphae"
+    ]
+  },
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "radioactiveblocks:radioactive_warped_stem" }
+        ]
+      }
+    }
+  },
+  "requirements": [["has_items"]]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": { "item": "radioactiveblocks:radioactive_nether_brick_block" },
+  "result": { "item": "radioactiveblocks:radioactive_cracked_nether_brick_block" },
+  "experience": 0.8,
+  "cookingtime": 60
+}

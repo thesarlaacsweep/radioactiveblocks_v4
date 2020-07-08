@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "radioactiveblocks:americium_axe",
+    "radioactiveblocks:berkelium_axe",
+    "radioactiveblocks:neptunium_axe",
+    "radioactiveblocks:plutonium_axe",
+    "radioactiveblocks:protactinium_axe",
+    "radioactiveblocks:radium_axe",
+    "radioactiveblocks:technetium_axe",
+    "radioactiveblocks:thorium_axe",
+    "radioactiveblocks:uranium_axe",
+    "minecraft:diamond_axe",
+    "minecraft:iron_axe"
+  ]
+}
