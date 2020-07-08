@@ -25,7 +25,7 @@ public class BlockBase extends Block {
     public BlockBase(Material materialIn, ToolType toolIn, SoundType soundTypeIn, int lightValueIn) {
         super(
                 Block.Properties.create(materialIn)
-                        .harvestLevel(2)
+                        .harvestLevel(HARVEST_LEVEL)
                         .hardnessAndResistance(3f, 6000f)
                         .harvestTool(toolIn)
                         .sound(soundTypeIn)

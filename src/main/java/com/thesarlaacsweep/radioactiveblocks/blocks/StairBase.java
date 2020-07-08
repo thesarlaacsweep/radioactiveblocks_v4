@@ -24,7 +24,7 @@ public class StairBase extends StairsBlock {
         super(
                 state,
                 Block.Properties.create(materialIn)
-                        .harvestLevel(2)
+                        .harvestLevel(HARVEST_LEVEL)
                         .hardnessAndResistance(3f, 6000f)
                         .harvestTool(toolIn)
                         .sound(soundTypeIn)

@@ -34,7 +34,7 @@ public class SlabBase extends SlabBlock {
     public SlabBase(Material materialIn, ToolType toolIn, SoundType soundTypeIn) {
         super(
                 Block.Properties.create(materialIn)
-                        .harvestLevel(2)
+                        .harvestLevel(HARVEST_LEVEL)
                         .hardnessAndResistance(3f, 6000f)
                         .harvestTool(toolIn)
                         .sound(soundTypeIn)

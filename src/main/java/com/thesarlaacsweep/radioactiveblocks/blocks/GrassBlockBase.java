@@ -28,7 +28,7 @@ public class GrassBlockBase extends GrassBlock {
     public GrassBlockBase() {
         super(
                 Block.Properties.create(Material.ORGANIC)
-                        .harvestLevel(2)
+                        .harvestLevel(HARVEST_LEVEL)
                         .hardnessAndResistance(3f, 6000f)
                         .harvestTool(SHOVEL)
                         .sound(SoundType.PLANT)
