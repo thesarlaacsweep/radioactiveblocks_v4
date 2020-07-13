@@ -1,4 +1,7 @@
 Build 4.1.0_1.16.1-32.0.25 - 07-08-2020
+- Adds configuration for radiation effects and radioactive ore spawning.
+
+Build 4.1.0_1.16.1-32.0.25 - 07-08-2020
 - Adds MC 1.16 specific blocks to the game.
 - Fixes an issue with Radioactive Blocks harvest levels.
 

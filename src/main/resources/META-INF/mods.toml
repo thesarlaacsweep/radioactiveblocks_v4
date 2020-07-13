@@ -8,7 +8,7 @@ loaderVersion="[32,)"
 
 modId="radioactiveblocks" #mandatory
 
-version="4.1.0" #mandatory
+version="4.2.0" #mandatory
 
 displayName="Radioactive Blocks" #mandatory
 
